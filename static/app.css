@@ -1,0 +1,25 @@
+:root {
+  font-size: 16px;
+}
+.hk-tabs__tab {
+  cursor: pointer;
+  border-bottom: 0;
+}
+.stroke-red {
+  stroke: #d64242;
+}
+.stroke-green {
+  stroke: #74c080;
+}
+.stroke-gold {
+  stroke: #ffb700;
+}
+.stroke-blue {
+  stroke: #408fec;
+}
+.stroke-purple {
+  stroke: #79589f;
+}
+.stroke-light-gray {
+  stroke: #eef1f6;
+}
